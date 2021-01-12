@@ -18,30 +18,26 @@ namespace The_Imitation_Game
                 if (command == "Move")
                 {
                     int numberOfLetters = int.Parse(currComands[1]);
-                    StringBuilder lettersToMove = new StringBuilder();
-                    for (int i = 0; i < numberOfLetters; i++)
-                    {
-                        lettersToMove.Append(inputMessage[i]);
-                    }
-
-                    inputMessage = inputMessage.Substring(0, numberOfLetters - 1);
-                    inputMessage.Concat(lettersToMove.ToString());
+                    string lettersToMove = inputMessage.Substring(0, numberOfLetters);
+                    inputMessage = inputMessage.Remove(0, numberOfLetters);
+                    inputMessage = inputMessage.Insert(inputMessage.Length, lettersToMove);
                 }
                 else if (command =="Insert")
                 {
                     int index = int.Parse(currComands[1]);
-                    int value = int.Parse(currComands[2]);
+                    string value = currComands[2];
+                    inputMessage = inputMessage.Insert(index, value.ToString());
                 }
                 else if (command=="ChangeAll")
                 {
                     string substring = currComands[1];
                     string replacement = currComands[2];
+                    inputMessage = inputMessage.Replace(substring, replacement);
                 }
 
                 inputData = Console.ReadLine();
             }
-
-            Console.WriteLine(inputMessage);
+            Console.WriteLine($"The decrypted message is: {inputMessage}");
         }
     }
 }
