@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/bin/Debug/netcoreapp3.1/Ad Astra.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/bin/Debug/netcoreapp3.1/Ad Astra.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/bin/Debug/netcoreapp3.1/Ad Astra.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/bin/Debug/netcoreapp3.1/Ad Astra.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/bin/Debug/netcoreapp3.1/Ad Astra.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/obj/Debug/netcoreapp3.1/Ad Astra.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/obj/Debug/netcoreapp3.1/Ad Astra.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/obj/Debug/netcoreapp3.1/Ad Astra.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/obj/Debug/netcoreapp3.1/Ad Astra.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/obj/Debug/netcoreapp3.1/Ad Astra.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/obj/Debug/netcoreapp3.1/Ad Astra.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/FundamentalsFinalExamPost/Ad Astra/obj/Debug/netcoreapp3.1/Ad Astra.genruntimeconfig.cache
