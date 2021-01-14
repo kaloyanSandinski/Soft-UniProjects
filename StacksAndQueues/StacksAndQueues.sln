@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStrings", "ReverseSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackSum", "StackSum\StackSum.csproj", "{16EAF10F-3842-4A31-944B-51252EB38A60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{F7B733EE-6A2E-481C-B054-59161867CEAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{16EAF10F-3842-4A31-944B-51252EB38A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EAF10F-3842-4A31-944B-51252EB38A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EAF10F-3842-4A31-944B-51252EB38A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B733EE-6A2E-481C-B054-59161867CEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B733EE-6A2E-481C-B054-59161867CEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B733EE-6A2E-481C-B054-59161867CEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B733EE-6A2E-481C-B054-59161867CEAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

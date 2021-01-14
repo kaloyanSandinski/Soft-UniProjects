@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/bin/Debug/netcoreapp3.1/SimpleCalculator.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/bin/Debug/netcoreapp3.1/SimpleCalculator.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/bin/Debug/netcoreapp3.1/SimpleCalculator.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/bin/Debug/netcoreapp3.1/SimpleCalculator.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/bin/Debug/netcoreapp3.1/SimpleCalculator.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/obj/Debug/netcoreapp3.1/SimpleCalculator.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/obj/Debug/netcoreapp3.1/SimpleCalculator.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/obj/Debug/netcoreapp3.1/SimpleCalculator.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/obj/Debug/netcoreapp3.1/SimpleCalculator.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/obj/Debug/netcoreapp3.1/SimpleCalculator.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/obj/Debug/netcoreapp3.1/SimpleCalculator.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/obj/Debug/netcoreapp3.1/SimpleCalculator.genruntimeconfig.cache
