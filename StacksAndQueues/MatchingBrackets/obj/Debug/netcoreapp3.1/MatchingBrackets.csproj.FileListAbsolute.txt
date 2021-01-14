@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/bin/Debug/netcoreapp3.1/MatchingBrackets.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/bin/Debug/netcoreapp3.1/MatchingBrackets.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/bin/Debug/netcoreapp3.1/MatchingBrackets.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/bin/Debug/netcoreapp3.1/MatchingBrackets.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/bin/Debug/netcoreapp3.1/MatchingBrackets.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/obj/Debug/netcoreapp3.1/MatchingBrackets.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/obj/Debug/netcoreapp3.1/MatchingBrackets.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/obj/Debug/netcoreapp3.1/MatchingBrackets.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/obj/Debug/netcoreapp3.1/MatchingBrackets.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/obj/Debug/netcoreapp3.1/MatchingBrackets.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/obj/Debug/netcoreapp3.1/MatchingBrackets.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MatchingBrackets/obj/Debug/netcoreapp3.1/MatchingBrackets.genruntimeconfig.cache
