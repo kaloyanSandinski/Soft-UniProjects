@@ -11,17 +11,18 @@ namespace PrintEvenNumbers
         {
             Queue<int> inputNumbers =
                 new Queue<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
-            List<int> output = new List<int>();
-            while (inputNumbers.Count>0)
+            int count = inputNumbers.Count;
+            for (int i = 0; i < count; i++)
             {
-                int currNum = inputNumbers.Dequeue();
-                if (currNum%2==0)
+                if (inputNumbers.Peek()%2==0)
                 {
-                    output.Add(currNum);
+                    inputNumbers.Enqueue(inputNumbers.Peek());
                 }
+
+                inputNumbers.Dequeue();
             }
 
-            Console.WriteLine(String.Join(", ", output));
+            Console.WriteLine(String.Join(", ", inputNumbers));
         }
     }
 }
