@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/bin/Debug/netcoreapp3.1/FastFood.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/bin/Debug/netcoreapp3.1/FastFood.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/bin/Debug/netcoreapp3.1/FastFood.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/bin/Debug/netcoreapp3.1/FastFood.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/bin/Debug/netcoreapp3.1/FastFood.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/obj/Debug/netcoreapp3.1/FastFood.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/obj/Debug/netcoreapp3.1/FastFood.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/obj/Debug/netcoreapp3.1/FastFood.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/obj/Debug/netcoreapp3.1/FastFood.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/obj/Debug/netcoreapp3.1/FastFood.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/obj/Debug/netcoreapp3.1/FastFood.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/obj/Debug/netcoreapp3.1/FastFood.genruntimeconfig.cache
