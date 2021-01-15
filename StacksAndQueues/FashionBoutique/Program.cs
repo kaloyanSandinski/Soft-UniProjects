@@ -15,22 +15,12 @@ namespace FashionBoutique
             Stack<int> stackClothes = new Stack<int>(clothes);
             int inputRackCapacity = int.Parse(Console.ReadLine());
             int rackCapacity = inputRackCapacity;
-            int rackQuantity = 0;
+            int rackQuantity = 1;
             while (stackClothes.Any())
             {
-                if (rackCapacity-stackClothes.Peek()>0)
+                if (rackCapacity >=stackClothes.Peek())
                 {
                     rackCapacity -= stackClothes.Pop();
-                    if (!stackClothes.Any())
-                    {
-                        rackQuantity++;
-                    }
-                }
-                else if (rackCapacity-stackClothes.Peek()==0)
-                {
-                    stackClothes.Pop();
-                    rackQuantity++;
-                    rackCapacity = inputRackCapacity;
                 }
                 else
                 {
