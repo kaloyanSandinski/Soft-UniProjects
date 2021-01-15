@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood", "FastFood\FastFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionBoutique", "FashionBoutique\FashionBoutique.csproj", "{17A02024-ECF5-49E5-A987-065D4B9C0031}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongsQueue", "SongsQueue\SongsQueue.csproj", "{1B84F944-BB1A-43D8-A611-AC81551E98B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{17A02024-ECF5-49E5-A987-065D4B9C0031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A02024-ECF5-49E5-A987-065D4B9C0031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A02024-ECF5-49E5-A987-065D4B9C0031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B84F944-BB1A-43D8-A611-AC81551E98B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B84F944-BB1A-43D8-A611-AC81551E98B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B84F944-BB1A-43D8-A611-AC81551E98B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B84F944-BB1A-43D8-A611-AC81551E98B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
