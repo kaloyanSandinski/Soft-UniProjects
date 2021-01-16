@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/Supermarket/Supermarket.csproj",
+      "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/Supermarket/Supermarket.csproj",
       "projectName": "Supermarket",
-      "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/Supermarket/Supermarket.csproj",
+      "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/Supermarket/Supermarket.csproj",
       "packagesPath": "/Users/kaloyansandinski/.nuget/packages/",
-      "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/Supermarket/obj/",
+      "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/Supermarket/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kaloyansandinski/.nuget/NuGet/NuGet.Config"

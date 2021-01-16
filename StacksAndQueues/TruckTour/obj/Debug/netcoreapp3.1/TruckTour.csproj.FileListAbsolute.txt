@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/bin/Debug/netcoreapp3.1/TruckTour.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/bin/Debug/netcoreapp3.1/TruckTour.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/bin/Debug/netcoreapp3.1/TruckTour.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/bin/Debug/netcoreapp3.1/TruckTour.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/bin/Debug/netcoreapp3.1/TruckTour.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/obj/Debug/netcoreapp3.1/TruckTour.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/obj/Debug/netcoreapp3.1/TruckTour.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/obj/Debug/netcoreapp3.1/TruckTour.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/obj/Debug/netcoreapp3.1/TruckTour.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/obj/Debug/netcoreapp3.1/TruckTour.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/obj/Debug/netcoreapp3.1/TruckTour.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/TruckTour/obj/Debug/netcoreapp3.1/TruckTour.genruntimeconfig.cache

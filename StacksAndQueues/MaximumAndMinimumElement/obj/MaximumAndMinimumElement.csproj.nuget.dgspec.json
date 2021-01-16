@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MaximumAndMinimumElement/MaximumAndMinimumElement.csproj": {}
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/MaximumAndMinimumElement/MaximumAndMinimumElement.csproj": {}
   },
   "projects": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MaximumAndMinimumElement/MaximumAndMinimumElement.csproj": {
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/MaximumAndMinimumElement/MaximumAndMinimumElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MaximumAndMinimumElement/MaximumAndMinimumElement.csproj",
+        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/MaximumAndMinimumElement/MaximumAndMinimumElement.csproj",
         "projectName": "MaximumAndMinimumElement",
-        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MaximumAndMinimumElement/MaximumAndMinimumElement.csproj",
+        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/MaximumAndMinimumElement/MaximumAndMinimumElement.csproj",
         "packagesPath": "/Users/kaloyansandinski/.nuget/packages/",
-        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/MaximumAndMinimumElement/obj/",
+        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/MaximumAndMinimumElement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaloyansandinski/.nuget/NuGet/NuGet.Config"

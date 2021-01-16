@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/PrintEvenNumbers/PrintEvenNumbers.csproj",
+      "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/PrintEvenNumbers/PrintEvenNumbers.csproj",
       "projectName": "PrintEvenNumbers",
-      "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/PrintEvenNumbers/PrintEvenNumbers.csproj",
+      "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/PrintEvenNumbers/PrintEvenNumbers.csproj",
       "packagesPath": "/Users/kaloyansandinski/.nuget/packages/",
-      "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/PrintEvenNumbers/obj/",
+      "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/PrintEvenNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kaloyansandinski/.nuget/NuGet/NuGet.Config"

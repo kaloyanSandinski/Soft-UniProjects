@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VG511lzmJ3fKzgfLmyMF092z8gbS42J/D5txUZLIowc0zEhRDu9EmtNRrs0WGk6DZurfeuRoJhd7BRfVyexcDg==",
+  "dgSpecHash": "L8wjVk/RBQ2DREJcrlrWOBi4AsijQq3lWJ5LM1X8Axzl03eZjJ4WWVdGH/qLivWh0DxQ9cDLlwIu2QEOnIMjgQ==",
   "success": true,
-  "projectFilePath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/PrintEvenNumbers/PrintEvenNumbers.csproj",
+  "projectFilePath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/PrintEvenNumbers/PrintEvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

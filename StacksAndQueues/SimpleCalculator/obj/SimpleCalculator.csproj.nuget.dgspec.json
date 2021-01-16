@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/SimpleCalculator.csproj": {}
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/SimpleCalculator/SimpleCalculator.csproj": {}
   },
   "projects": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/SimpleCalculator.csproj": {
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/SimpleCalculator/SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/SimpleCalculator.csproj",
+        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/SimpleCalculator/SimpleCalculator.csproj",
         "projectName": "SimpleCalculator",
-        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/SimpleCalculator.csproj",
+        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/SimpleCalculator/SimpleCalculator.csproj",
         "packagesPath": "/Users/kaloyansandinski/.nuget/packages/",
-        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/SimpleCalculator/obj/",
+        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/SimpleCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaloyansandinski/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/FastFood.csproj": {}
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/FastFood/FastFood.csproj": {}
   },
   "projects": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/FastFood.csproj": {
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/FastFood/FastFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/FastFood.csproj",
+        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/FastFood/FastFood.csproj",
         "projectName": "FastFood",
-        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/FastFood.csproj",
+        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/FastFood/FastFood.csproj",
         "packagesPath": "/Users/kaloyansandinski/.nuget/packages/",
-        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FastFood/obj/",
+        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/FastFood/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaloyansandinski/.nuget/NuGet/NuGet.Config"

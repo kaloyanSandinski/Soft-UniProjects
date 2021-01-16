@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/BasicStackOperations/BasicStackOperations.csproj": {}
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BasicStackOperations/BasicStackOperations.csproj": {}
   },
   "projects": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/BasicStackOperations/BasicStackOperations.csproj": {
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BasicStackOperations/BasicStackOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/BasicStackOperations/BasicStackOperations.csproj",
+        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BasicStackOperations/BasicStackOperations.csproj",
         "projectName": "BasicStackOperations",
-        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/BasicStackOperations/BasicStackOperations.csproj",
+        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BasicStackOperations/BasicStackOperations.csproj",
         "packagesPath": "/Users/kaloyansandinski/.nuget/packages/",
-        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/BasicStackOperations/obj/",
+        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BasicStackOperations/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaloyansandinski/.nuget/NuGet/NuGet.Config"

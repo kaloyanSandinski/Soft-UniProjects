@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FashionBoutique/FashionBoutique.csproj",
+      "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/FashionBoutique/FashionBoutique.csproj",
       "projectName": "FashionBoutique",
-      "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FashionBoutique/FashionBoutique.csproj",
+      "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/FashionBoutique/FashionBoutique.csproj",
       "packagesPath": "/Users/kaloyansandinski/.nuget/packages/",
-      "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/FashionBoutique/obj/",
+      "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/FashionBoutique/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kaloyansandinski/.nuget/NuGet/NuGet.Config"

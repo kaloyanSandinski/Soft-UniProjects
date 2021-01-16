@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/HotPotato/HotPotato.csproj": {}
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/HotPotato/HotPotato.csproj": {}
   },
   "projects": {
-    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/HotPotato/HotPotato.csproj": {
+    "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/HotPotato/HotPotato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/HotPotato/HotPotato.csproj",
+        "projectUniqueName": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/HotPotato/HotPotato.csproj",
         "projectName": "HotPotato",
-        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/HotPotato/HotPotato.csproj",
+        "projectPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/HotPotato/HotPotato.csproj",
         "packagesPath": "/Users/kaloyansandinski/.nuget/packages/",
-        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/Soft-UniProjects/StacksAndQueues/HotPotato/obj/",
+        "outputPath": "/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/HotPotato/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaloyansandinski/.nuget/NuGet/NuGet.Config"
