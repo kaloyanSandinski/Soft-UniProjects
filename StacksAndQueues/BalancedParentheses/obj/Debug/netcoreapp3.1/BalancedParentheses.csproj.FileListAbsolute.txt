@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/bin/Debug/netcoreapp3.1/BalancedParentheses.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/bin/Debug/netcoreapp3.1/BalancedParentheses.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/bin/Debug/netcoreapp3.1/BalancedParentheses.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/bin/Debug/netcoreapp3.1/BalancedParentheses.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/bin/Debug/netcoreapp3.1/BalancedParentheses.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/obj/Debug/netcoreapp3.1/BalancedParentheses.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/obj/Debug/netcoreapp3.1/BalancedParentheses.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/obj/Debug/netcoreapp3.1/BalancedParentheses.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/obj/Debug/netcoreapp3.1/BalancedParentheses.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/obj/Debug/netcoreapp3.1/BalancedParentheses.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/obj/Debug/netcoreapp3.1/BalancedParentheses.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StacksAndQueues/BalancedParentheses/obj/Debug/netcoreapp3.1/BalancedParentheses.genruntimeconfig.cache
