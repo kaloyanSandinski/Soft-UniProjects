@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/bin/Debug/netcoreapp3.1/PrimaryDiagonal.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/bin/Debug/netcoreapp3.1/PrimaryDiagonal.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/bin/Debug/netcoreapp3.1/PrimaryDiagonal.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/bin/Debug/netcoreapp3.1/PrimaryDiagonal.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/bin/Debug/netcoreapp3.1/PrimaryDiagonal.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/obj/Debug/netcoreapp3.1/PrimaryDiagonal.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/obj/Debug/netcoreapp3.1/PrimaryDiagonal.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/obj/Debug/netcoreapp3.1/PrimaryDiagonal.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/obj/Debug/netcoreapp3.1/PrimaryDiagonal.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/obj/Debug/netcoreapp3.1/PrimaryDiagonal.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/obj/Debug/netcoreapp3.1/PrimaryDiagonal.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/MultidimensionalArrays/PrimaryDiagonal/obj/Debug/netcoreapp3.1/PrimaryDiagonal.genruntimeconfig.cache
