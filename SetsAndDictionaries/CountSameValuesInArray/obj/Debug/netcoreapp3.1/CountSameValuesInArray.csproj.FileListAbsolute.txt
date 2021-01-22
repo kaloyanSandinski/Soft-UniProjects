@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/bin/Debug/netcoreapp3.1/CountSameValuesInArray.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/bin/Debug/netcoreapp3.1/CountSameValuesInArray.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/bin/Debug/netcoreapp3.1/CountSameValuesInArray.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/bin/Debug/netcoreapp3.1/CountSameValuesInArray.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/bin/Debug/netcoreapp3.1/CountSameValuesInArray.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/obj/Debug/netcoreapp3.1/CountSameValuesInArray.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/obj/Debug/netcoreapp3.1/CountSameValuesInArray.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/obj/Debug/netcoreapp3.1/CountSameValuesInArray.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/obj/Debug/netcoreapp3.1/CountSameValuesInArray.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/obj/Debug/netcoreapp3.1/CountSameValuesInArray.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/obj/Debug/netcoreapp3.1/CountSameValuesInArray.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/CountSameValuesInArray/obj/Debug/netcoreapp3.1/CountSameValuesInArray.genruntimeconfig.cache
