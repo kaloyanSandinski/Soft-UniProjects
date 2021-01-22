@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/bin/Debug/netcoreapp3.1/ProductShop.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/bin/Debug/netcoreapp3.1/ProductShop.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/bin/Debug/netcoreapp3.1/ProductShop.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/bin/Debug/netcoreapp3.1/ProductShop.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/bin/Debug/netcoreapp3.1/ProductShop.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/obj/Debug/netcoreapp3.1/ProductShop.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/obj/Debug/netcoreapp3.1/ProductShop.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/obj/Debug/netcoreapp3.1/ProductShop.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/obj/Debug/netcoreapp3.1/ProductShop.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/obj/Debug/netcoreapp3.1/ProductShop.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/obj/Debug/netcoreapp3.1/ProductShop.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ProductShop/obj/Debug/netcoreapp3.1/ProductShop.genruntimeconfig.cache
