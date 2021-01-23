@@ -34,7 +34,7 @@ namespace SoftUniParty
                 {
                     if (tokens[0]>='0'&&tokens[0]<='9')
                     {
-                        vipPartyGuest.Add(tokens);S
+                        vipPartyGuest.Add(tokens);
                     }
                     else
                     {
