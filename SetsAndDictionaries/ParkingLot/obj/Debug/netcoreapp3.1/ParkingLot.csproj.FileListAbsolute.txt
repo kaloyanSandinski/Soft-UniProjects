@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/bin/Debug/netcoreapp3.1/ParkingLot.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/bin/Debug/netcoreapp3.1/ParkingLot.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/bin/Debug/netcoreapp3.1/ParkingLot.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/bin/Debug/netcoreapp3.1/ParkingLot.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/bin/Debug/netcoreapp3.1/ParkingLot.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/obj/Debug/netcoreapp3.1/ParkingLot.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/obj/Debug/netcoreapp3.1/ParkingLot.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/obj/Debug/netcoreapp3.1/ParkingLot.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/obj/Debug/netcoreapp3.1/ParkingLot.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/obj/Debug/netcoreapp3.1/ParkingLot.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/obj/Debug/netcoreapp3.1/ParkingLot.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/ParkingLot/obj/Debug/netcoreapp3.1/ParkingLot.genruntimeconfig.cache
