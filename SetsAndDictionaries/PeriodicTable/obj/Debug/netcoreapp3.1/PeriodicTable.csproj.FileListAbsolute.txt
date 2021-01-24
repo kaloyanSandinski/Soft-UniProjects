@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/bin/Debug/netcoreapp3.1/PeriodicTable.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/bin/Debug/netcoreapp3.1/PeriodicTable.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/bin/Debug/netcoreapp3.1/PeriodicTable.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/bin/Debug/netcoreapp3.1/PeriodicTable.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/bin/Debug/netcoreapp3.1/PeriodicTable.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/obj/Debug/netcoreapp3.1/PeriodicTable.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/obj/Debug/netcoreapp3.1/PeriodicTable.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/obj/Debug/netcoreapp3.1/PeriodicTable.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/obj/Debug/netcoreapp3.1/PeriodicTable.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/obj/Debug/netcoreapp3.1/PeriodicTable.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/obj/Debug/netcoreapp3.1/PeriodicTable.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/PeriodicTable/obj/Debug/netcoreapp3.1/PeriodicTable.genruntimeconfig.cache
