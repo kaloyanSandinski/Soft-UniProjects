@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/bin/Debug/netcoreapp3.1/SetsOfElements.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/bin/Debug/netcoreapp3.1/SetsOfElements.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/bin/Debug/netcoreapp3.1/SetsOfElements.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/bin/Debug/netcoreapp3.1/SetsOfElements.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/bin/Debug/netcoreapp3.1/SetsOfElements.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/obj/Debug/netcoreapp3.1/SetsOfElements.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/obj/Debug/netcoreapp3.1/SetsOfElements.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/obj/Debug/netcoreapp3.1/SetsOfElements.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/obj/Debug/netcoreapp3.1/SetsOfElements.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/obj/Debug/netcoreapp3.1/SetsOfElements.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/obj/Debug/netcoreapp3.1/SetsOfElements.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/SetsOfElements/obj/Debug/netcoreapp3.1/SetsOfElements.genruntimeconfig.cache
