@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/bin/Debug/netcoreapp3.1/Wardrobe.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/bin/Debug/netcoreapp3.1/Wardrobe.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/bin/Debug/netcoreapp3.1/Wardrobe.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/bin/Debug/netcoreapp3.1/Wardrobe.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/bin/Debug/netcoreapp3.1/Wardrobe.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/obj/Debug/netcoreapp3.1/Wardrobe.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/obj/Debug/netcoreapp3.1/Wardrobe.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/obj/Debug/netcoreapp3.1/Wardrobe.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/obj/Debug/netcoreapp3.1/Wardrobe.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/obj/Debug/netcoreapp3.1/Wardrobe.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/obj/Debug/netcoreapp3.1/Wardrobe.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/SetsAndDictionaries/Wardrobe/obj/Debug/netcoreapp3.1/Wardrobe.genruntimeconfig.cache
