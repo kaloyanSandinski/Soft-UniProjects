@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderSize", "FolderSize\Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenLines", "EvenLines\EvenLines.csproj", "{B7F595FB-67D6-4304-9CBC-088751E55C04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineNumbersExercise", "LineNumbersExercise\LineNumbersExercise.csproj", "{ABE74A03-6C6B-4BDB-8B60-AB45892AAA01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{B7F595FB-67D6-4304-9CBC-088751E55C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7F595FB-67D6-4304-9CBC-088751E55C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7F595FB-67D6-4304-9CBC-088751E55C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE74A03-6C6B-4BDB-8B60-AB45892AAA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE74A03-6C6B-4BDB-8B60-AB45892AAA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE74A03-6C6B-4BDB-8B60-AB45892AAA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE74A03-6C6B-4BDB-8B60-AB45892AAA01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
