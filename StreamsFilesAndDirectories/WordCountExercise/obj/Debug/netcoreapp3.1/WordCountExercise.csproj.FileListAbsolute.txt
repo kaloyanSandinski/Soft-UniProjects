@@ -1,0 +1,14 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/bin/Debug/netcoreapp3.1/data/text.txt
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/bin/Debug/netcoreapp3.1/data/words.txt
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/bin/Debug/netcoreapp3.1/WordCountExercise.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/bin/Debug/netcoreapp3.1/WordCountExercise.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/bin/Debug/netcoreapp3.1/WordCountExercise.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/bin/Debug/netcoreapp3.1/WordCountExercise.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/bin/Debug/netcoreapp3.1/WordCountExercise.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/obj/Debug/netcoreapp3.1/WordCountExercise.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/obj/Debug/netcoreapp3.1/WordCountExercise.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/obj/Debug/netcoreapp3.1/WordCountExercise.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/obj/Debug/netcoreapp3.1/WordCountExercise.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/obj/Debug/netcoreapp3.1/WordCountExercise.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/obj/Debug/netcoreapp3.1/WordCountExercise.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/StreamsFilesAndDirectories/WordCountExercise/obj/Debug/netcoreapp3.1/WordCountExercise.genruntimeconfig.cache
