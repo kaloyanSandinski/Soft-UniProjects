@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeFiles", "MergeFiles\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderSize", "FolderSize\FolderSize.csproj", "{1BAD7127-FE50-4543-8826-7374A76C32DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenLines", "EvenLines\EvenLines.csproj", "{B7F595FB-67D6-4304-9CBC-088751E55C04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{1BAD7127-FE50-4543-8826-7374A76C32DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BAD7127-FE50-4543-8826-7374A76C32DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BAD7127-FE50-4543-8826-7374A76C32DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F595FB-67D6-4304-9CBC-088751E55C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F595FB-67D6-4304-9CBC-088751E55C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F595FB-67D6-4304-9CBC-088751E55C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F595FB-67D6-4304-9CBC-088751E55C04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
