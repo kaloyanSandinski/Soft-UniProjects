@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionPoint", "ActionPoint\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightsOfHonor", "KnightsOfHonor\KnightsOfHonor.csproj", "{F07209C9-34A0-4210-AD10-8BC932E37FFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMinFunction", "CustomMinFunction\CustomMinFunction.csproj", "{0EE180CA-FC21-4347-999B-CEFB2793C9EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{F07209C9-34A0-4210-AD10-8BC932E37FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F07209C9-34A0-4210-AD10-8BC932E37FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F07209C9-34A0-4210-AD10-8BC932E37FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE180CA-FC21-4347-999B-CEFB2793C9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE180CA-FC21-4347-999B-CEFB2793C9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE180CA-FC21-4347-999B-CEFB2793C9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE180CA-FC21-4347-999B-CEFB2793C9EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
