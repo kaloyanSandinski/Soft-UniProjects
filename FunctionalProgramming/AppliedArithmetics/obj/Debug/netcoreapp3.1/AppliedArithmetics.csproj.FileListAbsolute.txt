@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/obj/Debug/netcoreapp3.1/AppliedArithmetics.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/obj/Debug/netcoreapp3.1/AppliedArithmetics.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/obj/Debug/netcoreapp3.1/AppliedArithmetics.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/obj/Debug/netcoreapp3.1/AppliedArithmetics.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/bin/Debug/netcoreapp3.1/AppliedArithmetics.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/bin/Debug/netcoreapp3.1/AppliedArithmetics.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/bin/Debug/netcoreapp3.1/AppliedArithmetics.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/bin/Debug/netcoreapp3.1/AppliedArithmetics.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/bin/Debug/netcoreapp3.1/AppliedArithmetics.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/obj/Debug/netcoreapp3.1/AppliedArithmetics.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/obj/Debug/netcoreapp3.1/AppliedArithmetics.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/AppliedArithmetics/obj/Debug/netcoreapp3.1/AppliedArithmetics.genruntimeconfig.cache
