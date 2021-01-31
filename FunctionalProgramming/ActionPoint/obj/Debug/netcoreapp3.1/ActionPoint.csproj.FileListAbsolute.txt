@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/bin/Debug/netcoreapp3.1/ActionPoint.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/bin/Debug/netcoreapp3.1/ActionPoint.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/bin/Debug/netcoreapp3.1/ActionPoint.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/bin/Debug/netcoreapp3.1/ActionPoint.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/bin/Debug/netcoreapp3.1/ActionPoint.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/obj/Debug/netcoreapp3.1/ActionPoint.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/obj/Debug/netcoreapp3.1/ActionPoint.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/obj/Debug/netcoreapp3.1/ActionPoint.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/obj/Debug/netcoreapp3.1/ActionPoint.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/obj/Debug/netcoreapp3.1/ActionPoint.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/obj/Debug/netcoreapp3.1/ActionPoint.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ActionPoint/obj/Debug/netcoreapp3.1/ActionPoint.genruntimeconfig.cache
