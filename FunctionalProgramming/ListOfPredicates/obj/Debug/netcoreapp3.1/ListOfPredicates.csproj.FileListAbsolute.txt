@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/bin/Debug/netcoreapp3.1/ListOfPredicates.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/bin/Debug/netcoreapp3.1/ListOfPredicates.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/bin/Debug/netcoreapp3.1/ListOfPredicates.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/bin/Debug/netcoreapp3.1/ListOfPredicates.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/bin/Debug/netcoreapp3.1/ListOfPredicates.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/obj/Debug/netcoreapp3.1/ListOfPredicates.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/obj/Debug/netcoreapp3.1/ListOfPredicates.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/obj/Debug/netcoreapp3.1/ListOfPredicates.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/obj/Debug/netcoreapp3.1/ListOfPredicates.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/obj/Debug/netcoreapp3.1/ListOfPredicates.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/obj/Debug/netcoreapp3.1/ListOfPredicates.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/ListOfPredicates/obj/Debug/netcoreapp3.1/ListOfPredicates.genruntimeconfig.cache
