@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/bin/Debug/netcoreapp3.1/PredicateForNames.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/bin/Debug/netcoreapp3.1/PredicateForNames.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/bin/Debug/netcoreapp3.1/PredicateForNames.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/bin/Debug/netcoreapp3.1/PredicateForNames.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/bin/Debug/netcoreapp3.1/PredicateForNames.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/obj/Debug/netcoreapp3.1/PredicateForNames.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/obj/Debug/netcoreapp3.1/PredicateForNames.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/obj/Debug/netcoreapp3.1/PredicateForNames.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/obj/Debug/netcoreapp3.1/PredicateForNames.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/obj/Debug/netcoreapp3.1/PredicateForNames.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/obj/Debug/netcoreapp3.1/PredicateForNames.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/FunctionalProgramming/PredicateForNames/obj/Debug/netcoreapp3.1/PredicateForNames.genruntimeconfig.cache
