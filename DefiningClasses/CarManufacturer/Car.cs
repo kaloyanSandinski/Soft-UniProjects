@@ -1,29 +1,45 @@
+using System;
+
 namespace CarManufacturer
 {
     public class Car
     {
         private string make;
 
-        public string Make
-        {
-            get { return make; }
-            set { make = value; }
-        }
-
         private string model;
-
-        public string Model
-        {
-            get { return model; }
-            set { model = value; }
-        }
 
         private int year;
 
-        public int Year
+        private double fuelQuantity;
+
+        private double fuelConsumption;
+
+        public Car()
         {
-            get { return year; }
-            set { year = value; }
+            this.make = "VW";
+            this.model = "Golf";
+            this.year = 2025;
+            this.fuelConsumption = 10;
+            this.fuelQuantity = 200;
+        }
+
+        public Car(string make, string model, int year) : this()
+        {
+            this.make = make;
+            this.model = model;
+            this.year = year;
+        }
+
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption) : this(make, model,
+            year)
+        {
+            this.fuelQuantity = fuelQuantity;
+            this.fuelConsumption = fuelConsumption;
+        }
+
+        public void ReturnCar()
+        {
+            Console.WriteLine($"{make}, {model}, {year}, {fuelQuantity}, {fuelConsumption}");
         }
     }
 }
