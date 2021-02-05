@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingConstructors", "Cre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{B83ACFC4-D145-4051-982C-671E099068A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{CF4B3C9E-50CA-4547-96C5-F143A4CAB157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{B83ACFC4-D145-4051-982C-671E099068A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B83ACFC4-D145-4051-982C-671E099068A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B83ACFC4-D145-4051-982C-671E099068A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4B3C9E-50CA-4547-96C5-F143A4CAB157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4B3C9E-50CA-4547-96C5-F143A4CAB157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4B3C9E-50CA-4547-96C5-F143A4CAB157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4B3C9E-50CA-4547-96C5-F143A4CAB157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

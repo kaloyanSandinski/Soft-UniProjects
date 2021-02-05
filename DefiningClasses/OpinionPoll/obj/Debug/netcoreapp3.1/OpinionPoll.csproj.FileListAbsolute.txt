@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/bin/Debug/netcoreapp3.1/OpinionPoll.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/bin/Debug/netcoreapp3.1/OpinionPoll.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/bin/Debug/netcoreapp3.1/OpinionPoll.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/bin/Debug/netcoreapp3.1/OpinionPoll.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/bin/Debug/netcoreapp3.1/OpinionPoll.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/obj/Debug/netcoreapp3.1/OpinionPoll.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/obj/Debug/netcoreapp3.1/OpinionPoll.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/obj/Debug/netcoreapp3.1/OpinionPoll.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/obj/Debug/netcoreapp3.1/OpinionPoll.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/obj/Debug/netcoreapp3.1/OpinionPoll.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/obj/Debug/netcoreapp3.1/OpinionPoll.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/OpinionPoll/obj/Debug/netcoreapp3.1/OpinionPoll.genruntimeconfig.cache
