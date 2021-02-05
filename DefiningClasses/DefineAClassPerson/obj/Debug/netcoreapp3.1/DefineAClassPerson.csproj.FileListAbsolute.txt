@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/bin/Debug/netcoreapp3.1/DefineAClassPerson.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/bin/Debug/netcoreapp3.1/DefineAClassPerson.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/bin/Debug/netcoreapp3.1/DefineAClassPerson.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/bin/Debug/netcoreapp3.1/DefineAClassPerson.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/bin/Debug/netcoreapp3.1/DefineAClassPerson.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/obj/Debug/netcoreapp3.1/DefineAClassPerson.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/obj/Debug/netcoreapp3.1/DefineAClassPerson.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/obj/Debug/netcoreapp3.1/DefineAClassPerson.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/obj/Debug/netcoreapp3.1/DefineAClassPerson.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/obj/Debug/netcoreapp3.1/DefineAClassPerson.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/obj/Debug/netcoreapp3.1/DefineAClassPerson.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/DefineAClassPerson/obj/Debug/netcoreapp3.1/DefineAClassPerson.genruntimeconfig.cache

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManufacturer", "CarManuf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarExtension", "CarExtension\CarExtension.csproj", "{BB18469A-AEE6-4D9F-8F42-D9C70EA03E37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefineAClassPerson", "DefineAClassPerson\DefineAClassPerson.csproj", "{31D5390F-045D-404E-B5BB-49164EA739F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{BB18469A-AEE6-4D9F-8F42-D9C70EA03E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB18469A-AEE6-4D9F-8F42-D9C70EA03E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB18469A-AEE6-4D9F-8F42-D9C70EA03E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D5390F-045D-404E-B5BB-49164EA739F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D5390F-045D-404E-B5BB-49164EA739F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D5390F-045D-404E-B5BB-49164EA739F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D5390F-045D-404E-B5BB-49164EA739F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
