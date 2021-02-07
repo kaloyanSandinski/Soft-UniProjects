@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/bin/Debug/netcoreapp3.1/RawData.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/bin/Debug/netcoreapp3.1/RawData.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/bin/Debug/netcoreapp3.1/RawData.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/bin/Debug/netcoreapp3.1/RawData.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/bin/Debug/netcoreapp3.1/RawData.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/obj/Debug/netcoreapp3.1/RawData.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/obj/Debug/netcoreapp3.1/RawData.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/obj/Debug/netcoreapp3.1/RawData.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/obj/Debug/netcoreapp3.1/RawData.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/obj/Debug/netcoreapp3.1/RawData.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/obj/Debug/netcoreapp3.1/RawData.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/DefiningClasses/RawData/obj/Debug/netcoreapp3.1/RawData.genruntimeconfig.cache
