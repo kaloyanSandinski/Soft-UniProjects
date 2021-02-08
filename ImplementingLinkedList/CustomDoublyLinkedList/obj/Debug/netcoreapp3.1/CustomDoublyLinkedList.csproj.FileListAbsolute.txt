@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/bin/Debug/netcoreapp3.1/CustomDoublyLinkedList.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/bin/Debug/netcoreapp3.1/CustomDoublyLinkedList.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/bin/Debug/netcoreapp3.1/CustomDoublyLinkedList.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/bin/Debug/netcoreapp3.1/CustomDoublyLinkedList.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/bin/Debug/netcoreapp3.1/CustomDoublyLinkedList.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/obj/Debug/netcoreapp3.1/CustomDoublyLinkedList.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/obj/Debug/netcoreapp3.1/CustomDoublyLinkedList.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/obj/Debug/netcoreapp3.1/CustomDoublyLinkedList.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/obj/Debug/netcoreapp3.1/CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/obj/Debug/netcoreapp3.1/CustomDoublyLinkedList.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/obj/Debug/netcoreapp3.1/CustomDoublyLinkedList.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/ImplementingLinkedList/CustomDoublyLinkedList/obj/Debug/netcoreapp3.1/CustomDoublyLinkedList.genruntimeconfig.cache
