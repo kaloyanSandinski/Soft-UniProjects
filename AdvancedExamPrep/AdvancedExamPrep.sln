@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selling", "Selling\Selling.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Openning", "Openning\Openning.csproj", "{F312FDA7-9E96-4BC7-8E88-A4A8E5D1C4AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduling", "Scheduling\Scheduling.csproj", "{5F119EF6-3969-4222-A352-2361236ADD2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F312FDA7-9E96-4BC7-8E88-A4A8E5D1C4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F312FDA7-9E96-4BC7-8E88-A4A8E5D1C4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F312FDA7-9E96-4BC7-8E88-A4A8E5D1C4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F119EF6-3969-4222-A352-2361236ADD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F119EF6-3969-4222-A352-2361236ADD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F119EF6-3969-4222-A352-2361236ADD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F119EF6-3969-4222-A352-2361236ADD2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
