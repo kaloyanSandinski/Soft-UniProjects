@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/bin/Debug/netcoreapp3.1/Scheduling.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/bin/Debug/netcoreapp3.1/Scheduling.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/bin/Debug/netcoreapp3.1/Scheduling.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/bin/Debug/netcoreapp3.1/Scheduling.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/bin/Debug/netcoreapp3.1/Scheduling.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/obj/Debug/netcoreapp3.1/Scheduling.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/obj/Debug/netcoreapp3.1/Scheduling.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/obj/Debug/netcoreapp3.1/Scheduling.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/obj/Debug/netcoreapp3.1/Scheduling.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/obj/Debug/netcoreapp3.1/Scheduling.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/obj/Debug/netcoreapp3.1/Scheduling.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Scheduling/obj/Debug/netcoreapp3.1/Scheduling.genruntimeconfig.cache
