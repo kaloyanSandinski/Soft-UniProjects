@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/bin/Debug/netcoreapp3.1/Garden.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/bin/Debug/netcoreapp3.1/Garden.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/bin/Debug/netcoreapp3.1/Garden.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/bin/Debug/netcoreapp3.1/Garden.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/bin/Debug/netcoreapp3.1/Garden.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/obj/Debug/netcoreapp3.1/Garden.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/obj/Debug/netcoreapp3.1/Garden.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/obj/Debug/netcoreapp3.1/Garden.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/obj/Debug/netcoreapp3.1/Garden.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/obj/Debug/netcoreapp3.1/Garden.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/obj/Debug/netcoreapp3.1/Garden.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Garden/obj/Debug/netcoreapp3.1/Garden.genruntimeconfig.cache
