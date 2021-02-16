@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garden", "Garden\Garden.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classroom", "Classroom\Classroom.csproj", "{B42701FB-9F6E-4B34-8FBF-656D6F20D192}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerWreaths", "FlowerWreaths\FlowerWreaths.csproj", "{506EF398-69EB-4F4B-8993-9830AA77C99D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{B42701FB-9F6E-4B34-8FBF-656D6F20D192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B42701FB-9F6E-4B34-8FBF-656D6F20D192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B42701FB-9F6E-4B34-8FBF-656D6F20D192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506EF398-69EB-4F4B-8993-9830AA77C99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506EF398-69EB-4F4B-8993-9830AA77C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506EF398-69EB-4F4B-8993-9830AA77C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506EF398-69EB-4F4B-8993-9830AA77C99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
