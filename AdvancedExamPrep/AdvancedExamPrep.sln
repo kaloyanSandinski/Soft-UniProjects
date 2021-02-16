@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classroom", "Classroom\Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerWreaths", "FlowerWreaths\FlowerWreaths.csproj", "{506EF398-69EB-4F4B-8993-9830AA77C99D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee", "Bee\Bee.csproj", "{2F4AA146-36A0-4A97-9153-8529F9741091}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{506EF398-69EB-4F4B-8993-9830AA77C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{506EF398-69EB-4F4B-8993-9830AA77C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{506EF398-69EB-4F4B-8993-9830AA77C99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4AA146-36A0-4A97-9153-8529F9741091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4AA146-36A0-4A97-9153-8529F9741091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4AA146-36A0-4A97-9153-8529F9741091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4AA146-36A0-4A97-9153-8529F9741091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
