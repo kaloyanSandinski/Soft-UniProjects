@@ -24,7 +24,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ed5307d-030a-4395-b0de-71fcdf355132" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Generics.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Generics.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Generics/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Generics/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericArrayCreator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericArrayCreator/StartUp.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,8 @@
         <option value="$PROJECT_DIR$/BoxOfT/Box.cs" />
         <option value="$PROJECT_DIR$/BoxOfT/StartUp.cs" />
         <option value="$PROJECT_DIR$/GenericArrayCreator/Program.cs" />
+        <option value="$PROJECT_DIR$/GenericArrayCreator/StartUp.cs" />
+        <option value="$PROJECT_DIR$/GenericArrayCreator/ArrayCreator.cs" />
       </list>
     </option>
   </component>
@@ -56,7 +60,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.BoxOfT">
+  <component name="RunManager" selected=".NET Project.GenericArrayCreator">
     <configuration name="BoxOfT" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -102,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613553678961</updated>
-      <workItem from="1613553682444" duration="1471000" />
+      <workItem from="1613553682444" duration="3704000" />
     </task>
     <servers />
   </component>
@@ -126,25 +130,29 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1400" height="246" key="GridCell.Tab.0.bottom" timestamp="1613555073031">
+    <state width="1400" height="246" key="GridCell.Tab.0.bottom" timestamp="1613559980850">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="246" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613555073031" />
-    <state width="1400" height="246" key="GridCell.Tab.0.center" timestamp="1613555073029">
+    <state width="1400" height="246" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613559980850" />
+    <state width="1400" height="246" key="GridCell.Tab.0.center" timestamp="1613559980848">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="246" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613555073029" />
-    <state width="1400" height="246" key="GridCell.Tab.0.left" timestamp="1613555073029">
+    <state width="1400" height="246" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613559980848" />
+    <state width="1400" height="246" key="GridCell.Tab.0.left" timestamp="1613559980848">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="246" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613555073029" />
-    <state width="1400" height="246" key="GridCell.Tab.0.right" timestamp="1613555073030">
+    <state width="1400" height="246" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613559980848" />
+    <state width="1400" height="246" key="GridCell.Tab.0.right" timestamp="1613559980849">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="246" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613555073030" />
+    <state width="1400" height="246" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613559980849" />
     <state x="320" y="186" key="Rider.ProjectTemplateDialog.Size" timestamp="1613557732459">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="186" key="Rider.ProjectTemplateDialog.Size/0.0.1440.900@0.0.1440.900" timestamp="1613557732459" />
+    <state x="338" y="212" width="763" height="476" key="find.popup" timestamp="1613559946417">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="338" y="212" width="763" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1613559946417" />
   </component>
 </project>

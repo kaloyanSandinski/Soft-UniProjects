@@ -16,6 +16,7 @@
         <e p="StartUp.cs" t="Include" />
       </e>
       <e p="GenericArrayCreator" t="IncludeRecursive">
+        <e p="ArrayCreator.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="GenericArrayCreator.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
@@ -25,7 +26,7 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
+        <e p="StartUp.cs" t="Include" />
       </e>
       <e p="Generics.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

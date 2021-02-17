@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Generics/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.genruntimeconfig.cache
