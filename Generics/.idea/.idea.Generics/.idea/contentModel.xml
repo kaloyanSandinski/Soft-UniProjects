@@ -4,6 +4,7 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="BoxOfT" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Box.cs" t="Include" />
         <e p="BoxOfT.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -12,7 +13,7 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
+        <e p="StartUp.cs" t="Include" />
       </e>
       <e p="Generics.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
