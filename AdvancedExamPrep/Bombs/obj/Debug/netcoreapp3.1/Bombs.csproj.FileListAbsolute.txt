@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/bin/Debug/netcoreapp3.1/Bombs.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/bin/Debug/netcoreapp3.1/Bombs.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/bin/Debug/netcoreapp3.1/Bombs.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/bin/Debug/netcoreapp3.1/Bombs.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/bin/Debug/netcoreapp3.1/Bombs.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/obj/Debug/netcoreapp3.1/Bombs.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/obj/Debug/netcoreapp3.1/Bombs.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/obj/Debug/netcoreapp3.1/Bombs.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/obj/Debug/netcoreapp3.1/Bombs.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/obj/Debug/netcoreapp3.1/Bombs.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/obj/Debug/netcoreapp3.1/Bombs.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/AdvancedExamPrep/Bombs/obj/Debug/netcoreapp3.1/Bombs.genruntimeconfig.cache
