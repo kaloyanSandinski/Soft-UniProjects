@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerWreaths", "FlowerWrea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee", "Bee\Bee.csproj", "{2F4AA146-36A0-4A97-9153-8529F9741091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetClinic", "VetClinic\VetClinic.csproj", "{63D9DB76-1ED4-475F-B977-DD0CBDA0B0DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{2F4AA146-36A0-4A97-9153-8529F9741091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F4AA146-36A0-4A97-9153-8529F9741091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F4AA146-36A0-4A97-9153-8529F9741091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D9DB76-1ED4-475F-B977-DD0CBDA0B0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D9DB76-1ED4-475F-B977-DD0CBDA0B0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D9DB76-1ED4-475F-B977-DD0CBDA0B0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D9DB76-1ED4-475F-B977-DD0CBDA0B0DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

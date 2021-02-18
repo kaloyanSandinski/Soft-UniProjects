@@ -24,9 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ed5307d-030a-4395-b0de-71fcdf355132" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Generics/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Generics/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Generics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericArrayCreator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericArrayCreator/StartUp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,13 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613553678961</updated>
       <workItem from="1613553682444" duration="3704000" />
+      <workItem from="1613638367060" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -125,6 +124,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
