@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/bin/Debug/netcoreapp3.1/RandomList.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/bin/Debug/netcoreapp3.1/RandomList.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/bin/Debug/netcoreapp3.1/RandomList.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/bin/Debug/netcoreapp3.1/RandomList.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/bin/Debug/netcoreapp3.1/RandomList.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/obj/Debug/netcoreapp3.1/RandomList.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/obj/Debug/netcoreapp3.1/RandomList.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/obj/Debug/netcoreapp3.1/RandomList.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/obj/Debug/netcoreapp3.1/RandomList.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/obj/Debug/netcoreapp3.1/RandomList.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/obj/Debug/netcoreapp3.1/RandomList.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/RandomList/obj/Debug/netcoreapp3.1/RandomList.genruntimeconfig.cache
