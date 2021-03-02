@@ -1,12 +1,16 @@
 ﻿using System;
 
-namespace SingleInheritance
+namespace Farm
 {
-    class StartUp
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            
+            Dog dog = new Dog();
+            dog.Bark();
+            dog.Eat();
+            Animal animal = new Animal();
+            animal.Eat();
         }
     }
 }
