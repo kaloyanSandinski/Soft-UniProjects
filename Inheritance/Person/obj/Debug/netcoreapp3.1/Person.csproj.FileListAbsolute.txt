@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/bin/Debug/netcoreapp3.1/Person.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/bin/Debug/netcoreapp3.1/Person.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/bin/Debug/netcoreapp3.1/Person.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/bin/Debug/netcoreapp3.1/Person.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/bin/Debug/netcoreapp3.1/Person.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/obj/Debug/netcoreapp3.1/Person.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/obj/Debug/netcoreapp3.1/Person.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/obj/Debug/netcoreapp3.1/Person.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/obj/Debug/netcoreapp3.1/Person.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/obj/Debug/netcoreapp3.1/Person.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/obj/Debug/netcoreapp3.1/Person.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Person/obj/Debug/netcoreapp3.1/Person.genruntimeconfig.cache
