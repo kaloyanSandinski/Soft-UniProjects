@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{A9533040-91A1-4526-9E24-93A34CC7BE86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersAndMonsters", "PlayersAndMonsters\PlayersAndMonsters.csproj", "{4EB098D9-34A3-4BE9-B44E-E5AD4C655A7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{A9533040-91A1-4526-9E24-93A34CC7BE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9533040-91A1-4526-9E24-93A34CC7BE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9533040-91A1-4526-9E24-93A34CC7BE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB098D9-34A3-4BE9-B44E-E5AD4C655A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB098D9-34A3-4BE9-B44E-E5AD4C655A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB098D9-34A3-4BE9-B44E-E5AD4C655A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB098D9-34A3-4BE9-B44E-E5AD4C655A7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
