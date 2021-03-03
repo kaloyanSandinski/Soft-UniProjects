@@ -6,7 +6,8 @@ namespace PlayersAndMonsters
     {
         static void Main(string[] args)
         {
-            
+            Elf elf = new Elf("PeshoElfa", 23);
+            Console.WriteLine(elf);
         }
     }
 }
