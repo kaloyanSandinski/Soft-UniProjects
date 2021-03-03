@@ -2,11 +2,12 @@
 
 namespace NeedForSpeed
 {
-    public class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            
+            SportCar sportCar = new SportCar(100, 100);
+            sportCar.Drive(5);
         }
     }
 }
