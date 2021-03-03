@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersAndMonsters", "Playe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeed", "NeedForSpeed\NeedForSpeed.csproj", "{455D82FC-4873-44FA-800F-BBDD8E913F62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{1B0A8C45-AD0E-4A1C-B941-2EA6EF78309B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{455D82FC-4873-44FA-800F-BBDD8E913F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{455D82FC-4873-44FA-800F-BBDD8E913F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{455D82FC-4873-44FA-800F-BBDD8E913F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0A8C45-AD0E-4A1C-B941-2EA6EF78309B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0A8C45-AD0E-4A1C-B941-2EA6EF78309B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0A8C45-AD0E-4A1C-B941-2EA6EF78309B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0A8C45-AD0E-4A1C-B941-2EA6EF78309B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
