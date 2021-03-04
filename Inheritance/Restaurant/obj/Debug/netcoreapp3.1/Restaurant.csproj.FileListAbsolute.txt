@@ -1,0 +1,12 @@
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/bin/Debug/netcoreapp3.1/Restaurant.deps.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/bin/Debug/netcoreapp3.1/Restaurant.runtimeconfig.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/bin/Debug/netcoreapp3.1/Restaurant.runtimeconfig.dev.json
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/bin/Debug/netcoreapp3.1/Restaurant.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/bin/Debug/netcoreapp3.1/Restaurant.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/obj/Debug/netcoreapp3.1/Restaurant.csprojAssemblyReference.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/obj/Debug/netcoreapp3.1/Restaurant.AssemblyInfoInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/obj/Debug/netcoreapp3.1/Restaurant.AssemblyInfo.cs
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/obj/Debug/netcoreapp3.1/Restaurant.csproj.CoreCompileInputs.cache
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/obj/Debug/netcoreapp3.1/Restaurant.dll
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/obj/Debug/netcoreapp3.1/Restaurant.pdb
+/Users/kaloyansandinski/Documents/Programing/Programing with C#/SoftuniC#LocalRepo/SoftUni-Projects/Inheritance/Restaurant/obj/Debug/netcoreapp3.1/Restaurant.genruntimeconfig.cache

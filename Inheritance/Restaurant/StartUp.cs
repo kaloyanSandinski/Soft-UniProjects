@@ -2,11 +2,11 @@
 
 namespace Restaurant
 {
-    class StartUp
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            
+            Fish fish  = new Fish("Salmon", 23);
         }
     }
 }
