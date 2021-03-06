@@ -1,0 +1,13 @@
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.exe
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.deps.json
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.runtimeconfig.json
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.runtimeconfig.dev.json
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.dll
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.pdb
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.csprojAssemblyReference.cache
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.AssemblyInfo.cs
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.dll
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.pdb
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.genruntimeconfig.cache
