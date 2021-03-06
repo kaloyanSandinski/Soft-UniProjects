@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LocalRepoSoft-Uni\\SoftUni-Projects\\Encapsulation\\Salary Increase\\Salary Increase.csproj",
-      "projectName": "Salary Increase",
-      "projectPath": "D:\\LocalRepoSoft-Uni\\SoftUni-Projects\\Encapsulation\\Salary Increase\\Salary Increase.csproj",
+      "projectUniqueName": "D:\\LocalRepoSoft-Uni\\SoftUni-Projects\\Encapsulation\\Salary Increase\\SalaryIncrease.csproj",
+      "projectName": "SalaryIncrease",
+      "projectPath": "D:\\LocalRepoSoft-Uni\\SoftUni-Projects\\Encapsulation\\Salary Increase\\SalaryIncrease.csproj",
       "packagesPath": "C:\\Users\\kaloq\\.nuget\\packages\\",
       "outputPath": "D:\\LocalRepoSoft-Uni\\SoftUni-Projects\\Encapsulation\\Salary Increase\\obj\\",
       "projectStyle": "PackageReference",

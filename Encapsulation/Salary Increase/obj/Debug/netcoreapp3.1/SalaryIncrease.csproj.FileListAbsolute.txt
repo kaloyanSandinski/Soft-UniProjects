@@ -1,0 +1,13 @@
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\SalaryIncrease.exe
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\SalaryIncrease.deps.json
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\SalaryIncrease.runtimeconfig.json
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\SalaryIncrease.runtimeconfig.dev.json
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\SalaryIncrease.dll
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\bin\Debug\netcoreapp3.1\SalaryIncrease.pdb
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\SalaryIncrease.csprojAssemblyReference.cache
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\SalaryIncrease.AssemblyInfoInputs.cache
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\SalaryIncrease.AssemblyInfo.cs
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\SalaryIncrease.csproj.CoreCompileInputs.cache
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\SalaryIncrease.dll
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\SalaryIncrease.pdb
+D:\LocalRepoSoft-Uni\SoftUni-Projects\Encapsulation\Salary Increase\obj\Debug\netcoreapp3.1\SalaryIncrease.genruntimeconfig.cache
