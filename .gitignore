@@ -36,3 +36,8 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+*.csprojAssemblyReference.cache
+*.zip
+*.txt
+*.csprojAssemblyReference
+*.cache
