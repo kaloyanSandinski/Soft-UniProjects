@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalaryIncrease", "Salary In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationOfData", "ValidationOfData\ValidationOfData.csproj", "{5B9A8269-102F-4E14-B686-33A9348793A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAndReserveTeam", "FirstAndReserveTeam\FirstAndReserveTeam.csproj", "{76DD5D07-711E-4D95-B783-BC81379B1F83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstAndReserveTeam", "FirstAndReserveTeam\FirstAndReserveTeam.csproj", "{76DD5D07-711E-4D95-B783-BC81379B1F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBoxData", "ClassBoxData\ClassBoxData.csproj", "{A4947111-DF77-4995-8C38-BB333094B138}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{76DD5D07-711E-4D95-B783-BC81379B1F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76DD5D07-711E-4D95-B783-BC81379B1F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76DD5D07-711E-4D95-B783-BC81379B1F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4947111-DF77-4995-8C38-BB333094B138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4947111-DF77-4995-8C38-BB333094B138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4947111-DF77-4995-8C38-BB333094B138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4947111-DF77-4995-8C38-BB333094B138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
