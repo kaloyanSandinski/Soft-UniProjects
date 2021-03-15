@@ -2,11 +2,15 @@
 
 namespace Animals
 {
-    class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Animal cat = new Cat("Maria", "Whiskas");
+            Animal dog = new Dog("Rex", "Meat");
+
+            Console.WriteLine(cat.ExplainSelf());
+            Console.WriteLine(dog.ExplainSelf());
         }
     }
 }
