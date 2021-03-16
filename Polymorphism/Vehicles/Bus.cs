@@ -4,19 +4,18 @@ using System.Text;
 
 namespace Vehicles
 {
-    public class Car : Vehicle
+    public class Bus : Vehicle
     {
-        private const double AirConditionerConsumation = 0.9;
-        public Car(double quantity, double consumption, double tankCapacity) 
-            : base(quantity, consumption,tankCapacity)
+        private const double AirConditionerConsumation = 1.4;
+        public Bus(double quantity, double consumption, double tankCapacity) 
+            : base(quantity, consumption, tankCapacity)
         {
             AirConditioner = AirConditionerConsumation;
         }
 
         public override void Drive(double distance)
         {
-            this.TurnOnAirConditioner();
-            if (FuelQuantity< distance*FuelConsumption)
+            if (FuelQuantity < distance * FuelConsumption)
             {
                 throw new ArgumentException($"{GetType().Name} needs refueling");
             }
@@ -28,7 +27,7 @@ namespace Vehicles
         public override void Refuel(double liters)
         {
             FuelValidator.Validator(liters);
-            if (TankCapacity<FuelQuantity+liters)
+            if (TankCapacity < FuelQuantity + liters)
             {
                 throw new ArgumentException($"Cannot fit {liters} fuel in the tank");
             }

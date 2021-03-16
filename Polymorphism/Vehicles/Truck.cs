@@ -6,15 +6,17 @@ namespace Vehicles
 {
     public class Truck : Vehicle
     {
-        public Truck(double quantity, double consumption) 
-            : base(quantity, consumption)
+        private const double AirConditionerConsumation = 1.6;
+        public Truck(double quantity, double consumption, double tankCapacity) 
+            : base(quantity, consumption, tankCapacity)
         {
-            FuelConsumption = 1.6+ consumption;
+            AirConditioner = AirConditionerConsumation;
         }
 
         public override void Drive(double distance)
         {
-            if (FuelQuantity<distance*FuelConsumption)
+            this.TurnOnAirConditioner();
+            if (FuelQuantity < distance * FuelConsumption)
             {
                 throw new ArgumentException($"{GetType().Name} needs refueling");
             }
@@ -25,6 +27,13 @@ namespace Vehicles
 
         public override void Refuel(double liters)
         {
+            FuelValidator.Validator(liters);
+
+            if (TankCapacity < FuelQuantity + liters)
+            {
+                throw new ArgumentException($"Cannot fit {liters} fuel in the tank");
+            } 
+
             double litersConsumed = 0.95 * liters;
             FuelQuantity += litersConsumed;
         }
