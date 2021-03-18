@@ -6,7 +6,14 @@ namespace ValidPerson
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                Person person = new Person(string.Empty, "", 150);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
     }
 }
