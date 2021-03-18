@@ -1,12 +1,14 @@
 ﻿using System;
 
 namespace EnterNumbers
-{
-    class Program
+{ 
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int start = int.Parse(Console.ReadLine());
+            int end = int.Parse(Console.ReadLine());
+            Methods.ReadNumber(start, end);
         }
     }
 }
