@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Stream_Progress", "..\.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.Graphic_Editor", "..\..\..\Programming\Advanced\OOP\LAB\Exercises\Lab-Skeleton\P02.Graphic_Editor\P02.Graphic_Editor.csproj", "{67DE201C-16AB-403A-9496-B6F470E437D1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Detail_Printer", "P03.Detail_Printer\P03.Detail_Printer.csproj", "{877E4497-2307-4D27-8903-65DCAB8DF7BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.Recharge", "P04.Recharge\P04.Recharge.csproj", "{A02B6C2A-2ED6-45CF-8DD2-96EE5F1887E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{67DE201C-16AB-403A-9496-B6F470E437D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67DE201C-16AB-403A-9496-B6F470E437D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67DE201C-16AB-403A-9496-B6F470E437D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877E4497-2307-4D27-8903-65DCAB8DF7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877E4497-2307-4D27-8903-65DCAB8DF7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877E4497-2307-4D27-8903-65DCAB8DF7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877E4497-2307-4D27-8903-65DCAB8DF7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02B6C2A-2ED6-45CF-8DD2-96EE5F1887E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02B6C2A-2ED6-45CF-8DD2-96EE5F1887E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02B6C2A-2ED6-45CF-8DD2-96EE5F1887E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02B6C2A-2ED6-45CF-8DD2-96EE5F1887E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
