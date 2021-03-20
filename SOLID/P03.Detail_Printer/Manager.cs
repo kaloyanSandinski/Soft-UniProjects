@@ -12,5 +12,10 @@ namespace P03.DetailPrinter
         }
 
         public IReadOnlyCollection<string> Documents { get; set; }
+        public override void PrintEmployee()
+        {
+            Console.WriteLine(this.Name);
+            Console.WriteLine(string.Join(Environment.NewLine, this.Documents));
+        }
     }
 }
