@@ -7,7 +7,7 @@ namespace Stealer
         static void Main(string[] args)
         {
             Spy spy = new Spy();
-            Console.WriteLine(spy.RevealPrivateMethods("Hacker"));
+            Console.WriteLine(spy.CollectGettersAndSetters("Hacker"));
         }
     }
 }
