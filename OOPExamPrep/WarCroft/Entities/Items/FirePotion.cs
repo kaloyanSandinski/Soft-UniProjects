@@ -13,7 +13,7 @@ namespace WarCroft.Entities.Items
         {
         }
 
-        public void AffectCharacter(Character character)
+        public override void AffectCharacter(Character character)
         {
             if (character.IsAlive)
             {

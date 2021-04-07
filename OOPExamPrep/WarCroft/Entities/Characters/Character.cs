@@ -20,10 +20,10 @@ namespace WarCroft.Entities.Characters.Contracts
         public Character(string name, double health, double armor, double abilityPoints, Bag bag)
         {
             Name = name;
-            Health = health;
             BaseHealth = health;
-            Armor = armor;
+            Health = health;
             BaseArmor = armor;
+            Armor = armor;
             AbilityPoints = abilityPoints;
             Bag = bag;
         }
@@ -41,6 +41,10 @@ namespace WarCroft.Entities.Characters.Contracts
                 if (value>=0&&value<=BaseHealth)
                 {
                     health = value;
+                }
+                else
+                {
+                    health = 0;
                 }
             }
         }
@@ -159,15 +163,21 @@ namespace WarCroft.Entities.Characters.Contracts
                 {
                     hitPointsLeft = hitPoints - Armor;
                     Armor = 0;
+
+                    if (hitPointsLeft > 0)
+                    {
+                        Health -= hitPointsLeft;
+                    }
+                }
+                else if (hitPoints-Armor<=0)
+                {
+                    Armor -= hitPoints;
                 }
 
-                if (hitPointsLeft>0)
-                {
-                    Health -= hitPointsLeft;
-                }
 
                 if (Health<=0)
                 {
+                    Health = 0;
                     IsAlive = false;
                 }
             }
@@ -177,7 +187,16 @@ namespace WarCroft.Entities.Characters.Contracts
         {
             if (IsAlive)
             {
-                item.AffectCharacter(this);
+                if (item.GetType().Name == "FirePotion")
+                {
+                    FirePotion itemFirePotion = (FirePotion) item;
+                    itemFirePotion.AffectCharacter(this);
+                }
+                else
+                {
+                    HealthPotion itemHealthPotion = (HealthPotion) item;
+                    itemHealthPotion.AffectCharacter(this);
+                }
             }
         }
     }

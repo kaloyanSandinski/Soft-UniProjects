@@ -14,6 +14,7 @@ namespace WarCroft.Entities.Inventory
 
         public Bag(int capacity)
         {
+            items = new List<Item>();
             Capacity = capacity;
         }
 

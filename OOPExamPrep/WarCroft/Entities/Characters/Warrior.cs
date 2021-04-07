@@ -20,9 +20,10 @@ namespace WarCroft.Entities.Characters.Contracts
 
         public void Attack(Character character)
         {
-            if (this.IsAlive && character.IsAlive)
+            this.EnsureAlive();
+            if (character.IsAlive)
             {
-                if (character.GetType().Name==this.GetType().Name)
+                if (character.Name==this.Name)
                 {
                     throw new InvalidOperationException("Cannot attack self!");
                 }
