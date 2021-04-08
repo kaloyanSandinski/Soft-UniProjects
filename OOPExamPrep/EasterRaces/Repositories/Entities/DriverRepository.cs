@@ -41,7 +41,7 @@ namespace EasterRaces.Repositories.Entities
         {
             if(driversByName.ContainsKey(model.Name))
             {
-                throw new ArgumentException(ExceptionMessages.CarExists);
+                throw new ArgumentException(string.Format(ExceptionMessages.DriversExists, model.Name));
             }
 
             driversByName.Add(model.Name, model);

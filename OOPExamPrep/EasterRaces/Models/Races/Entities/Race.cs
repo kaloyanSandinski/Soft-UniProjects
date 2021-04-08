@@ -5,6 +5,7 @@ using EasterRaces.Models.Drivers.Contracts;
 using EasterRaces.Models.Races.Contracts;
 using EasterRaces.Utilities.Messages;
 
+
 namespace EasterRaces.Models.Races.Entities
 {
     public class Race : IRace
@@ -28,10 +29,12 @@ namespace EasterRaces.Models.Races.Entities
             }
             private set
             {
-                if (string.IsNullOrWhiteSpace(value)||value.Length<5)
+                if (string.IsNullOrWhiteSpace(value) || value.Length < 5)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidName);
+                    throw new ArgumentException(String.Format(ExceptionMessages.InvalidName, value, 5));
                 }
+
+                name = value;
             }
         }
 
@@ -43,30 +46,34 @@ namespace EasterRaces.Models.Races.Entities
             }
             private set
             {
-                if (value<1)
+                if (value < 1)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidNumberOfLaps);
+                    throw new ArgumentException(String.Format(ExceptionMessages.InvalidNumberOfLaps, 1));
                 }
+
+                laps = value;
             }
         }
 
-        public IReadOnlyCollection<IDriver> Drivers => (IReadOnlyCollection<IDriver>) this.drivers;
+        public IReadOnlyCollection<IDriver> Drivers => (IReadOnlyCollection<IDriver>)this.drivers;
         public void AddDriver(IDriver driver)
         {
             if (driver == null)
             {
-                throw new ArgumentException(ExceptionMessages.DriverInvalid);
+                throw new ArgumentException(string.Format(ExceptionMessages.DriverInvalid));
             }
 
-            if (driver.Car==null)
+            if (driver.Car == null)
             {
-                throw new ArgumentException(ExceptionMessages.DriverNotParticipate);
+                throw new ArgumentException(String.Format(ExceptionMessages.DriverNotParticipate, driver.Name));
             }
 
             if (drivers.Contains(driver))
             {
-                throw new ArgumentNullException(ExceptionMessages.DriverAlreadyAdded);
+                throw new ArgumentNullException(string.Format(ExceptionMessages.DriverAlreadyAdded, driver.Name, this.Name));
             }
+
+            drivers.Add(driver);
         }
     }
 }

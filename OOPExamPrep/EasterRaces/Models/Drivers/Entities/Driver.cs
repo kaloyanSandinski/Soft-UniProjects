@@ -30,6 +30,8 @@ namespace EasterRaces.Models.Drivers.Entities
                 {
                     throw new ArgumentException($"Name {Name} cannot be less than 5 symbols.");
                 }
+
+                name = value;
             }
         }
 
