@@ -131,6 +131,7 @@ namespace EasterRaces.Core.Entities
             sb.AppendLine($"Driver {results[0].Name} wins {raceName} race.")
                 .AppendLine($"Driver {results[1].Name} is second in {raceName} race.")
                 .AppendLine($"Driver {results[2].Name} is third in {raceName} race.");
+            raceRepository.Remove(race);
 
             return sb.ToString().TrimEnd();
         }
